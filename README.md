@@ -96,8 +96,9 @@ For optimal performance of the AI services:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SanTiwari07/KrishiSaarthi.git
-cd KrishiSaarthi
+git clone https://github.com/tmyashaswini8/agri.git
+cd agri
+
 ```
 
 ### 2. Frontend Setup
