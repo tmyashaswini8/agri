@@ -161,11 +161,6 @@ Start the application (ensure your AI models are downloaded/linked properly).
 
 ---
 
-## Team
-Our dedicated team working to bridge the gap between technology and agriculture:
-- **Kanishka Salgude**
-- **Srujan Satav**
-- **Sanskar Tiwari**
 
 ## Contributing
 We welcome contributions! Please fork the repo, create a feature branch, and submit a PR.
